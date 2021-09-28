@@ -1,9 +1,9 @@
 Olá! 👋
 
-Meu nome é Lucas e sou um psicólogo que se tornou programador front-end de forma autodidata.
+Meu nome é Lucas e sou um psicólogo que se tornou programador front-end de forma autodidata!
 
-- 🔭 Estou estudando para criar o meu portfólio profissional;
-- 🌱 Estou me dedicando a entender melhor o JavaScript;
-- 👯 Utilizo HTML, CSS, JavaScript e GIT rotineiramente;
+- 🔭 Atualmente trabalhando na Aduana Web como desenvolvedor front-end;
+- 🌱 Me dedicando exclusivamente a JavaScript e Vue.js;
+- 👯 O que estou lendo: Não me faça Pensar! - Steve Krug;
 <!--
 **Lusks/Lusks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
