@@ -4,12 +4,15 @@
 Sou um psicólogo que se tornou programador front-end de forma autodidata.
 <br>
 <br>
+<br>
 
 <ul>
   <li> Desenvolvedor na Aduana Web; </li>
   <li> Graduado em Psicologia; </li>
   <li> Inglês fluente. </li>
 </ul>
+
+<br>
 
 ## Linguagens
    
@@ -21,6 +24,8 @@ Sou um psicólogo que se tornou programador front-end de forma autodidata.
     <img align="center" alt="TW"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img align="center" alt="VJS"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
+
+<br>
 
 ## Contato
   
