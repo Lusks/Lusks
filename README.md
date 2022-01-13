@@ -1,9 +1,32 @@
-Olá! 👋
+## Olá, meu nome é Lucas Novaes! 👋
 
-Meu nome é Lucas e sou um psicólogo que se tornou programador front-end de forma autodidata!
+<br>
+Sou um psicólogo que se tornou programador front-end de forma autodidata.
+<br>
+<br>
 
-- 🔭 Atualmente trabalhando na Aduana Web como desenvolvedor front-end;
-- 🌱 Me dedicando exclusivamente a JavaScript e Vue.js;
-- 👯 O que estou lendo: Não me faça Pensar! - Steve Krug;
+<ul>
+  <li> Desenvolvedor na Aduana Web; </li>
+  <li> Graduado em Psicologia; </li>
+  <li> Inglês fluente. </li>
+</ul>
+
+## Linguagens
+   
+<div style ="display : inline_block"><br>
+    <img align="center" alt="HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="JS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="BS"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="TW"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img align="center" alt="VJS"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+</div>
+
+## Contato
+  
+<div>
+  <a href="https://www.linkedin.com/in/lucas-novaes-8530301ab/" target-"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 <!--
 **Lusks/Lusks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
