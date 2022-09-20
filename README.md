@@ -1,7 +1,7 @@
 ## Olá, meu nome é Lucas Novaes! 👋
 
 <br>
-Sou um psicólogo que se tornou programador front-end de forma autodidata.
+Sou um desenvolvedor com mais de 1 ano de experiência.
 <br>
 <br>
 <br>
@@ -23,6 +23,7 @@ Sou um psicólogo que se tornou programador front-end de forma autodidata.
     <img align="center" alt="BS"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="TW"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img align="center" alt="VJS"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    <img align="center" alt="RAILS" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 </div>
 
 <br>
