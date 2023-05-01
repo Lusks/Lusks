@@ -1,7 +1,7 @@
 ## Olá, meu nome é Lucas Novaes! 👋
 
 <br>
-Sou um desenvolvedor com mais de 1 ano de experiência.
+Sou um desenvolvedor FullStack com 2 anos de experiência.
 <br>
 <br>
 <br>
